@@ -53,6 +53,10 @@ Route::get('/sendpost', function () {
     return view('sendPost');
 })->name('sendPost');
 
+Route::get('/home', function () {
+    return view('home');
+})->name('WhatDaFuckIsThis');
+
 
 Route::get('/post/{postid}', 'App\Http\Controllers\newsController@PostShow')->name('PostShower');
 Route::get('/post/{postid}/edit', 'App\Http\Controllers\newsController@NewsEdit')->name('PostEdit');
