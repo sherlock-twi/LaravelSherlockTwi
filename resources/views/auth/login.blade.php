@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('titlename')
-Вход | Шерлок Твай
+Вход | Шерлок Тваййййй
 @endsection
 
 @section('content')
