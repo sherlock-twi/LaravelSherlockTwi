@@ -141,7 +141,7 @@ function OpenMobileMenu() {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\OpenServer\domains\LST\resources\js\MainFunctional.js */"./resources/js/MainFunctional.js");
+module.exports = __webpack_require__(/*! C:\OpenServer\domains\LaravelSherlockTwi\resources\js\MainFunctional.js */"./resources/js/MainFunctional.js");
 
 
 /***/ })
